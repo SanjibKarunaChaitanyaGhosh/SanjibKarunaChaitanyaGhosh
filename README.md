@@ -168,6 +168,21 @@ javaScript_logicBuilding_series
        View Project
     </a>
   </li>
+
+  <li>
+    🎨 <strong>Random Page Color Generator</strong> –
+  JavaScript-based Random Page Background Color Generator with HEX codes →
+    →
+    <a href="https://github.com/SanjibKarunaChaitanyaGhosh/javaScript_logicBuilding_series/tree/main/4.random_page_color"
+       target="_blank">
+       View Project
+    </a>
+  </li>
+
+
+
+
+
 </ul>
 
 <p>
