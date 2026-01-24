@@ -133,56 +133,48 @@ javaScript_logicBuilding_series
 
 <hr>
 
+## 🚀 Featured Project Categories
+
 <table>
   <tr>
-    <!-- JavaScript Logic Building -->
-    <td align="center" width="25%">
+    <td align="center">
       <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/javascript.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-             width="90" alt="JavaScript Logic"/>
-        <br><br>
-        <strong>JavaScript Logic Building</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70"/>
+        <br><strong>JavaScript Logic Building</strong>
       </a>
-      <p>DOM, events, timers, logic-based apps</p>
+      <p>DOM • Events • Timers • Logic Apps</p>
     </td>
 
-    <!-- Machine Learning -->
-    <td align="center" width="25%">
+    <td align="center">
       <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/machine-learning.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-             width="90" alt="Machine Learning"/>
-        <br><br>
-        <strong>Machine Learning</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
+        <br><strong>Machine Learning</strong>
       </a>
-      <p>Data analysis, ML models & visualization</p>
+      <p>EDA • Models • Visualization</p>
     </td>
+  </tr>
 
-    <!-- Programming Languages -->
-    <td align="center" width="25%">
+  <tr>
+    <td align="center">
       <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/programming.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-             width="90" alt="Programming"/>
-        <br><br>
-        <strong>Programming Languages</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70"/>
+        <br><strong>Programming Languages</strong>
       </a>
-      <p>C, Java, JavaScript, Python</p>
+      <p>C • Java • JS • Python</p>
     </td>
 
-    <!-- Advanced Excel -->
-    <td align="center" width="25%">
+    <td align="center">
       <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/advanced-excel.html" target="_blank">
-        <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png"
-             width="90" alt="Advanced Excel"/>
-        <br><br>
-        <strong>Advanced Excel Series</strong>
+        <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="70"/>
+        <br><strong>Advanced Excel</strong>
       </a>
-      <p>Formulas, dashboards & data analysis</p>
+      <p>Formulas • Dashboards • Analysis</p>
     </td>
   </tr>
 </table>
 
 <hr/>
-
+## 📊 GitHub Stats
 <p>
   <img align="center"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjibKarunaChaitanyaGhosh&show_icons=true&locale=en&layout=compact"
