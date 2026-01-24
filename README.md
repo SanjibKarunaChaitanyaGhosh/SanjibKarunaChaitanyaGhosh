@@ -124,12 +124,12 @@ Actively learning modern technologies to build scalable applications by combinin
 
 <hr>
 
-<p>
+<!-- <p>
 📌 Repository:
 <a href="https://github.com/SanjibKarunaChaitanyaGhosh/javaScript_logicBuilding_series" target="_blank">
 javaScript_logicBuilding_series
 </a>
-</p>
+</p> -->
 
 <hr>
 
@@ -196,4 +196,4 @@ javaScript_logicBuilding_series
 </p>
 
 
-# Profile-SanjibGhosh
+# Profile-SanjibGhoshgit
