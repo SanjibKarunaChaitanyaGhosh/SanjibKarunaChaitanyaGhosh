@@ -192,8 +192,12 @@ javaScript_logicBuilding_series
 
 <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargidutta25&show_icons=true&locale=en&layout=compact" alt="gargidutta25" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjibKarunaChaitanyaGhosh
+&show_icons=true&locale=en&layout=compact" alt="SanjibKarunaChaitanyaGhosh
+" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargidutta25&" alt="gargidutta25" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjibKarunaChaitanyaGhosh
+&" alt="SanjibKarunaChaitanyaGhosh
+" /></p>
 
 # Profile-SanjibGhosh
