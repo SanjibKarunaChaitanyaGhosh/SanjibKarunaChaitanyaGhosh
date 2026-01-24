@@ -124,57 +124,30 @@ Actively learning modern technologies to build scalable applications by combinin
 
 <hr>
 
-<!-- <p>
-📌 Repository:
-<a href="https://github.com/SanjibKarunaChaitanyaGhosh/javaScript_logicBuilding_series" target="_blank">
-javaScript_logicBuilding_series
-</a>
-</p> -->
-
 <hr>
 
 ## 🚀 Featured Project Categories
+<hr/>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/javascript.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70"/>
-        <br><strong>JavaScript Logic Building</strong>
-      </a>
-      <p>DOM • Events • Timers • Logic Apps</p>
-    </td>
-   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/machine-learning.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
-        <br><strong>Machine Learning</strong>
-      </a>
-      <p>EDA • Models • Visualization</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/programming.html" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70"/>
-        <br><strong>Programming Languages</strong>
-      </a>
-      <p>C • Java • JS • Python</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/advanced-excel.html" target="_blank">
-        <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="70"/>
-        <br><strong>Advanced Excel</strong>
-      </a>
-      <p>Formulas • Dashboards • Analysis</p>
-    </td>
-  </tr>
-</table>
+<h2 align="center">📁 Projects</h2>
+
+<p align="center">
+  I have worked on multiple projects across
+  <strong>JavaScript</strong>, <strong>Machine Learning</strong>,
+  <strong>Programming Languages</strong>, and
+  <strong>Advanced Excel</strong>.
+</p>
+
+<p align="center">
+  👉
+  <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/index.html"
+     target="_blank">
+    <strong>🔗 See All Projects</strong>
+  </a>
+</p>
 
 <hr/>
+
 
 ## 📊 GitHub Stats
 <p>
