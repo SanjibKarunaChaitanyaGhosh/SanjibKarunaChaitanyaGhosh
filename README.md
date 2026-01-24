@@ -123,15 +123,6 @@ Actively learning modern technologies to build scalable applications by combinin
 </ul>
 
 <hr>
-<h2>🚀 JavaScript Logic Building Series</h2>
-
-<p>
-This is an ongoing project series focused on strengthening my
-<strong>JavaScript logic-building skills</strong> through small, practical,
-and real-world mini applications.
-Each project helps me improve problem-solving, DOM manipulation,
-and core JavaScript concepts.
-</p>
 
 <p>
 📌 Repository:
@@ -140,55 +131,55 @@ javaScript_logicBuilding_series
 </a>
 </p>
 
-<h3>📂 Projects Included</h3>
+<hr>
 
-<ul>
-  <li>
-    🔢 <strong>Counter App</strong> –
-    Simple counter application using JavaScript DOM manipulation  
-    →
-    <a href="https://github.com/SanjibKarunaChaitanyaGhosh/javaScript_logicBuilding_series/tree/main/1.counter_APP"
-       target="_blank">
-       View Project
-    </a>
-  </li>
+<table>
+  <tr>
+    <!-- JavaScript Logic Building -->
+    <td align="center" width="25%">
+      <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/javascript.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+             width="90" alt="JavaScript Logic"/>
+        <br><br>
+        <strong>JavaScript Logic Building</strong>
+      </a>
+      <p>DOM, events, timers, logic-based apps</p>
+    </td>
 
-  <li>
-    ⏳ <strong>Countdown App</strong> –
-    Countdown timer to practice time-based logic  
-    →
-    <a href="https://github.com/SanjibKarunaChaitanyaGhosh/javaScript_logicBuilding_series/tree/main/2.countdownapp"
-       target="_blank">
-       View Project
-    </a>
-  </li>
+    <!-- Machine Learning -->
+    <td align="center" width="25%">
+      <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/machine-learning.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+             width="90" alt="Machine Learning"/>
+        <br><br>
+        <strong>Machine Learning</strong>
+      </a>
+      <p>Data analysis, ML models & visualization</p>
+    </td>
 
-  <li>
-    🕒 <strong>Day–Hour Countdown App</strong> –
-    Countdown showing days and hours with corrected logic  
-    →
-    <a href="https://github.com/SanjibKarunaChaitanyaGhosh/javaScript_logicBuilding_series/tree/main/3.day_hour_countdownpp"
-       target="_blank">
-       View Project
-    </a>
-  </li>
+    <!-- Programming Languages -->
+    <td align="center" width="25%">
+      <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/programming.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+             width="90" alt="Programming"/>
+        <br><br>
+        <strong>Programming Languages</strong>
+      </a>
+      <p>C, Java, JavaScript, Python</p>
+    </td>
 
-  <li>
-    🎨 <strong>Random Page Color Generator</strong> –
-  JavaScript-based Random Page Background Color Generator with HEX codes →
-    →
-    <a href="https://github.com/SanjibKarunaChaitanyaGhosh/javaScript_logicBuilding_series/tree/main/4.random_page_color"
-       target="_blank">
-       View Project
-    </a>
-  </li>
-</ul>
-
-<p>
-🛠️ <strong>Tech Used:</strong> HTML, CSS, JavaScript  
-<br/>
-🎯 <strong>Goal:</strong> Improve logical thinking, accuracy, and confidence in JavaScript
-</p>
+    <!-- Advanced Excel -->
+    <td align="center" width="25%">
+      <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/advanced-excel.html" target="_blank">
+        <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png"
+             width="90" alt="Advanced Excel"/>
+        <br><br>
+        <strong>Advanced Excel Series</strong>
+      </a>
+      <p>Formulas, dashboards & data analysis</p>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
