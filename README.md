@@ -144,7 +144,8 @@ javaScript_logicBuilding_series
       </a>
       <p>DOM • Events • Timers • Logic Apps</p>
     </td>
-
+   </tr>
+  <tr>
     <td align="center">
       <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/machine-learning.html" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
@@ -153,7 +154,6 @@ javaScript_logicBuilding_series
       <p>EDA • Models • Visualization</p>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/programming.html" target="_blank">
@@ -162,7 +162,8 @@ javaScript_logicBuilding_series
       </a>
       <p>C • Java • JS • Python</p>
     </td>
-
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/projects/advanced-excel.html" target="_blank">
         <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="70"/>
@@ -174,6 +175,7 @@ javaScript_logicBuilding_series
 </table>
 
 <hr/>
+
 ## 📊 GitHub Stats
 <p>
   <img align="center"
