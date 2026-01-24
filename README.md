@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">,
     I'm Sanjib Ghosh</h1>
+
+<img align="right" alt="Coding" width="400"
+src="https://ouch-prod-var-cdn.icons8.com/ef/illustrations/thumbs/hh6iIHZEPEGRQLqq.webp">
+
 <h3 align="center">
     Aspiring Machine Learning Engineer and Full-Stack Web Developer, continuously learning and building
 </h3>
@@ -178,11 +182,6 @@ javaScript_logicBuilding_series
        View Project
     </a>
   </li>
-
-
-
-
-
 </ul>
 
 <p>
@@ -193,77 +192,8 @@ javaScript_logicBuilding_series
 
 <hr/>
 
-<h2>🧠 Machine Learning Journey & Progress</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargidutta25&show_icons=true&locale=en&layout=compact" alt="gargidutta25" /></p>
 
-<p>
-I am building a strong foundation in <strong>Machine Learning</strong> through a structured, hands-on learning path.
-My approach focuses on understanding core concepts, practicing with real-world datasets,
-and gradually integrating Machine Learning with <strong>Web Development</strong> and
-<strong>Generative AI applications</strong>.
-</p>
-
-<p>
-This section represents my <em>current learning progress</em> and <em>future goals</em>,
-updated regularly as I move forward.
-</p>
-
-<h3>✅ Foundations</h3>
-<ul>
-  <li>✔ Python for Data Science→ [EDA Project](https://github.com/your-repo)</li>
-  <li>✔ NumPy basics</li>
-  <li>✔ Pandas for data handling</li>
-  <li>✔ Data visualization with Matplotlib</li>
-  <li>⬜ Statistics fundamentals</li>
-  <li>⬜ Linear Algebra basics</li>
-</ul>
-
-<h3>🔄 Core Machine Learning</h3>
-<ul>
-  <li>⬜ Data preprocessing & cleaning</li>
-  <li>⬜ Feature engineering</li>
-  <li>⬜ Train-test split & cross-validation</li>
-  <li>⬜ Linear Regression</li>
-  <li>⬜ Logistic Regression</li>
-  <li>⬜ K-Nearest Neighbors (KNN)</li>
-  <li>⬜ Decision Trees</li>
-  <li>⬜ K-Means Clustering</li>
-  <li>⬜ Model evaluation (accuracy, precision, recall, F1-score)</li>
-</ul>
-
-<h3>🛠️ ML Tools & Workflow</h3>
-<ul>
-  <li>⬜ <a href="https://scikit-learn.org/" target="_blank">Scikit-learn</a></li>
-  <li>⬜ <a href="https://jupyter.org/" target="_blank">Jupyter Notebook</a> workflows</li>
-  <li>⬜ ML pipelines</li>
-  <li>⬜ Saving & loading trained models</li>
-</ul>
-
-<h3>🧠 Advanced Machine Learning</h3>
-<ul>
-  <li>⬜ Ensemble methods (Random Forest, Gradient Boosting)</li>
-  <li>⬜ Hyperparameter tuning</li>
-  <li>⬜ Handling overfitting & underfitting</li>
-  <li>⬜ Introduction to ML model deployment</li>
-</ul>
-
-<h3>✨ Generative AI & LLMs</h3>
-<ul>
-  <li>⬜ Fundamentals of Generative AI</li>
-  <li>⬜ Prompt engineering techniques</li>
-  <li>⬜ Working with LLM APIs</li>
-  <li>⬜ Building AI-powered applications</li>
-  <li>⬜ Integrating Generative AI with web applications</li>
-</ul>
-
-<h3>🚀 Projects & Practice</h3>
-<ul>
-  <li>⬜ End-to-end Machine Learning project</li>
-  <li>⬜ ML project using real-world datasets</li>
-  <li>⬜ ML + Web integration project</li>
-  <li>⬜ Well-documented GitHub repositories</li>
-  <li>⬜ Sharing learning through teaching & technical content</li>
-</ul>
-
-<hr/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargidutta25&" alt="gargidutta25" /></p>
 
 # Profile-SanjibGhosh
