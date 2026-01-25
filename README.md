@@ -12,7 +12,7 @@ src="https://ouch-prod-var-cdn.icons8.com/ef/illustrations/thumbs/hh6iIHZEPEGRQL
 </p>
 
 <p>🌐 Connect with me</p>
-<p>🔗 LinkedIn: <a href="https://github.com/SanjibKarunaChaitanyaGhosh/SanjibKarunaChaitanyaGhosh">Sanjib Ghosh</a>
+<p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/sanjibkarunachaitanyaghosh/">Sanjib Ghosh</a>
 
 
 <p>Educator | Aspiring ML Engineer | Full-Stack Web Developer</p>
@@ -158,8 +158,17 @@ Actively learning modern technologies to build scalable applications by combinin
 
 <p>
   <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=SanjibKarunaChaitanyaGhosh"
+       src="https://streak-stats.demolab.com?user=SanjibKarunaChaitanyaGhosh"
        alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjibKarunaChaitanyaGhosh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjibKarunaChaitanyaGhosh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SanjibKarunaChaitanyaGhosh&theme=tokyonight&hide_border=true" />
 </p>
 
 
