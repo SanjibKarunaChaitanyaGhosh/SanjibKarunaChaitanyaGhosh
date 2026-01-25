@@ -150,25 +150,14 @@ Actively learning modern technologies to build scalable applications by combinin
 
 
 ## 📊 GitHub Stats
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjibKarunaChaitanyaGhosh&show_icons=true&locale=en&layout=compact"
-       alt="Top Languages" />
-</p>
 
-<p>
-  <img align="center"
-       src="https://streak-stats.demolab.com?user=SanjibKarunaChaitanyaGhosh"
-       alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjibKarunaChaitanyaGhosh&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjibKarunaChaitanyaGhosh&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjibKarunaChaitanyaGhosh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjibKarunaChaitanyaGhosh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SanjibKarunaChaitanyaGhosh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SanjibKarunaChaitanyaGhosh&hide_border=true" />
 </p>
 
 
