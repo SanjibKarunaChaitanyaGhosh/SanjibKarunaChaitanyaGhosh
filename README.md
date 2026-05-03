@@ -8,7 +8,7 @@
 ## 🚀 Portfolio
 
 <p align="center">
-  <a href="https://sanjibkarunachaitanyaghsoh.github.io/portfolio-hub/" target="_blank">
+  <a href="https://sanjib.techknowlogia.in/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
