@@ -21,6 +21,23 @@
 https://www.linkedin.com/in/sanjibkarunachaitanyaghosh/
 
 ---
+# 🚀 My Projects
+
+<p align="center">
+
+<a href="https://github.com/SanjibKarunaChaitanyaGhosh/expense-tracker">
+  <img src="https://img.shields.io/badge/💰_Expense_Tracker-View_Project-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SanjibKarunaChaitanyaGhosh/weather-app">
+  <img src="https://img.shields.io/badge/🌦️_Weather_App-View_Project-green?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SanjibKarunaChaitanyaGhosh/student-management-system">
+  <img src="https://img.shields.io/badge/🎓_Student_Management-View_Project-orange?style=for-the-badge"/>
+</a>
+
+</p>
 
 ## 🧑‍💻 Skills
 
@@ -52,9 +69,9 @@ FastAPI • React.js • Node.js • MongoDB • Generative AI • AWS (Cloud Ba
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?user=SanjibKarunaChaitanyaGhosh&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SanjibKarunaChaitanyaGhosh&show_icons=true&theme=default"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=SanjibKarunaChaitanyaGhosh&layout=compact&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjibKarunaChaitanyaGhosh&layout=compact&theme=default"/>
 
 <img src="https://streak-stats.demolab.com?user=SanjibKarunaChaitanyaGhosh"/>
 
