@@ -52,9 +52,9 @@ FastAPI • React.js • Node.js • MongoDB • Generative AI • AWS (Cloud Ba
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjibKarunaChaitanyaGhosh&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?user=SanjibKarunaChaitanyaGhosh&show_icons=true&theme=default"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjibKarunaChaitanyaGhosh&layout=compact&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=SanjibKarunaChaitanyaGhosh&layout=compact&theme=default"/>
 
 <img src="https://streak-stats.demolab.com?user=SanjibKarunaChaitanyaGhosh"/>
 
