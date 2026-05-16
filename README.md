@@ -23,7 +23,7 @@ https://www.linkedin.com/in/sanjibkarunachaitanyaghosh/
 ---
 # 🚀 My Projects
 
-<p align="center">
+<p align="center" size=+2>
   <a href="https://github.com/SanjibKarunaChaitanyaGhosh?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20View%20My%20Projects-FF5733?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
