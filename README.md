@@ -24,18 +24,12 @@ https://www.linkedin.com/in/sanjibkarunachaitanyaghosh/
 # 🚀 My Projects
 
 <p align="center">
-
-<a href="https://github.com/SanjibKarunaChaitanyaGhosh/expense-tracker">
-  <img src="https://img.shields.io/badge/💰_Expense_Tracker-View_Project-blue?style=for-the-badge"/>
+  
+<a href="https://github.com/SanjibKarunaChaitanyaGhosh?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_View_My_Projects-black?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/SanjibKarunaChaitanyaGhosh/weather-app">
-  <img src="https://img.shields.io/badge/🌦️_Weather_App-View_Project-green?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/SanjibKarunaChaitanyaGhosh/student-management-system">
-  <img src="https://img.shields.io/badge/🎓_Student_Management-View_Project-orange?style=for-the-badge"/>
-</a>
+</p>
 
 </p>
 
