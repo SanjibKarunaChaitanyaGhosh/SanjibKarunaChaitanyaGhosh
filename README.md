@@ -26,7 +26,7 @@ https://www.linkedin.com/in/sanjibkarunachaitanyaghosh/
 <p align="center">
   
 <a href="https://github.com/SanjibKarunaChaitanyaGhosh?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_View_My_Projects-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_View_My_Projects-skyblue?style=for-the-badge" />
 </a>
 
 </p>
